@@ -1,2 +1,2 @@
-# dsci-100-project_template
+# My-DSCI-Project
 Template project repository for DSCI-100
