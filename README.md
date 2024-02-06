@@ -1,2 +1,2 @@
 # My-DSCI-Project
-My cool project repository for DSCI-100
+My cool project repository for DSCI-100 :)
