@@ -1,2 +1,2 @@
 # My-DSCI-Project
-Template project repository for DSCI-100
+My cool project repository for DSCI-100
